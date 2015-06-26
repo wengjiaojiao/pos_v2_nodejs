@@ -1,4 +1,3 @@
-var fixtures = require('./fixtures.js');
 var printInventory = require("../src/main.js");
 
 describe('pos', function () {
