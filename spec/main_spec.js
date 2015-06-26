@@ -5,7 +5,6 @@ describe('pos', function () {
     var allItems, inputs, dateDigitToString;
 
     beforeEach(function () {
-        allItems = fixtures.loadAllItems();
         inputs = [
             'ITEM000001',
             'ITEM000001',
